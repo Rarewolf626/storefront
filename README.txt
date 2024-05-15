@@ -51,6 +51,9 @@ Privacy Policy for the Google Fonts API: https://developers.google.com/fonts/faq
 
 == Changelog ==
 
+= 4.5.6 - 2024-05-15 =
+- Fix - Remove site-logo support. ([#2146](https://github.com/woocommerce/storefront/pull/2146))
+
 = 4.5.5 - 2024-04-11 =
 - Fix - Update Woo.com links to Wooommerce.com. ([#2142](https://github.com/woocommerce/storefront/pull/2142))
 
