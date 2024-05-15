@@ -1,11 +1,11 @@
 === Storefront ===
 Contributors: automattic, tiagonoronha, jameskoster
 Requires at least: 5.3.4
-Tested up to: 6.3
+Tested up to: 6.5
 Stable tag: 4.5.5
 Version: 4.5.5
 WC requires at least: 4.2
-WC tested up to: 8.1
+WC tested up to: 8.8
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: e-commerce, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-images, full-width-template, threaded-comments, accessibility-ready, rtl-language-support, footer-widgets, sticky-post, theme-options, editor-style
